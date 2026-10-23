@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://orangeup.biz/sitemap.xml
